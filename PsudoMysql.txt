@@ -1,0 +1,16 @@
+ps -ax |grep sql
+sudo kill <first process id>
+sudo kill <second process id>
+
+
+
+script::ifconfig
+en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	ether 14:10:9f:da:79:4d 
+	inet6 fe80::1610:9fff:feda:794d%en0 prefixlen 64 scopeid 0x4 
+	inet 10.10.30.224 netmask 0xfffffe00 broadcast 10.10.31.255
+	media: autoselect
+	status: active
+
+
+https://sis.ashesi.edu.gh/courseware/cms2/records/record_list.php
